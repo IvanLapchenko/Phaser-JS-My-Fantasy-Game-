@@ -1,0 +1,12 @@
+
+body {
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+    object-position: bottom;
+    padding: 0px;
+    margin: 0px;
+    margin-top: 0px;
+    background: black;
+
+  }
